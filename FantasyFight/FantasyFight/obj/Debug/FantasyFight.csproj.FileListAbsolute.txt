@@ -1,0 +1,73 @@
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\bin\Debug\FantasyFight.exe.config
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\bin\Debug\FantasyFight.exe
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\bin\Debug\FantasyFight.pdb
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\FantasyFight.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\App.g.cs
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\FantasyFight_MarkupCompile.cache
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\FantasyFight_MarkupCompile.lref
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\FantasyFight.g.resources
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\FantasyFight.Properties.Resources.resources
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\FantasyFight.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\FantasyFight.exe
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\FantasyFight.pdb
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\CharacterDescription.g.cs
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\CharacterDescription.baml
+C:\Users\user\Documents\fantasyfight\FantasyFight\bin\Debug\FantasyFight.exe.config
+C:\Users\user\Documents\fantasyfight\FantasyFight\bin\Debug\FantasyFight.exe
+C:\Users\user\Documents\fantasyfight\FantasyFight\bin\Debug\FantasyFight.pdb
+C:\Users\user\Documents\fantasyfight\FantasyFight\obj\Debug\FantasyFight.csprojAssemblyReference.cache
+C:\Users\user\Documents\fantasyfight\FantasyFight\obj\Debug\CharacterDescription.g.cs
+C:\Users\user\Documents\fantasyfight\FantasyFight\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\fantasyfight\FantasyFight\obj\Debug\App.g.cs
+C:\Users\user\Documents\fantasyfight\FantasyFight\obj\Debug\FantasyFight_MarkupCompile.cache
+C:\Users\user\Documents\fantasyfight\FantasyFight\obj\Debug\FantasyFight_MarkupCompile.lref
+C:\Users\user\Documents\fantasyfight\FantasyFight\obj\Debug\CharacterDescription.baml
+C:\Users\user\Documents\fantasyfight\FantasyFight\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\fantasyfight\FantasyFight\obj\Debug\FantasyFight.g.resources
+C:\Users\user\Documents\fantasyfight\FantasyFight\obj\Debug\FantasyFight.Properties.Resources.resources
+C:\Users\user\Documents\fantasyfight\FantasyFight\obj\Debug\FantasyFight.csproj.GenerateResource.cache
+C:\Users\user\Documents\fantasyfight\FantasyFight\obj\Debug\FantasyFight.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\fantasyfight\FantasyFight\obj\Debug\FantasyFight.exe
+C:\Users\user\Documents\fantasyfight\FantasyFight\obj\Debug\FantasyFight.pdb
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\bin\Debug\FantasyFight.exe.config
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\bin\Debug\FantasyFight.exe
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\bin\Debug\FantasyFight.pdb
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\obj\Debug\FantasyFight.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\obj\Debug\CharacterDescription.g.cs
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\obj\Debug\App.g.cs
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\obj\Debug\FantasyFight_MarkupCompile.cache
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\obj\Debug\FantasyFight_MarkupCompile.lref
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\obj\Debug\CharacterDescription.baml
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\obj\Debug\FantasyFight.g.resources
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\obj\Debug\FantasyFight.Properties.Resources.resources
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\obj\Debug\FantasyFight.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\obj\Debug\FantasyFight.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\obj\Debug\FantasyFight.exe
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\obj\Debug\FantasyFight.pdb
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\FantasyFight.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\Statistics.g.cs
+C:\Users\user\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\Statistics.baml
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\bin\Debug\FantasyFight.exe.config
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\bin\Debug\FantasyFight.exe
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\bin\Debug\FantasyFight.pdb
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\CharacterDescription.g.cs
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\MainWindow.g.cs
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\Statistics.g.cs
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\App.g.cs
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\FantasyFight_MarkupCompile.cache
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\FantasyFight_MarkupCompile.lref
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\CharacterDescription.baml
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\MainWindow.baml
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\Statistics.baml
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\FantasyFight.g.resources
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\FantasyFight.Properties.Resources.resources
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\FantasyFight.csproj.GenerateResource.cache
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\FantasyFight.csproj.CoreCompileInputs.cache
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\FantasyFight.exe
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\FantasyFight.pdb
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\App.baml
+C:\Users\Sofia\Desktop\GitBitBucket Repos\FantasyFight\FantasyFight\FantasyFight\obj\Debug\FantasyFight.csprojAssemblyReference.cache
